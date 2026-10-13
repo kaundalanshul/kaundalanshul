@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🌟 Hey there, I'm <a href="https://github.com/kaundalansh">Anshul Kaundal</a>! 👋
+  # 🌟 Hey there, I'm <a href="https://github.com/kaundalanshul">Anshul Kaundal</a>! 👋
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;Lifelong+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -9,8 +9,8 @@
   <br />
 
   <p>
-    <a href="https://github.com/kaundalansh">
-      <img src="https://komarev.com/ghpvc/?username=kaundalansh&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" />
+    <a href="https://github.com/kaundalanshul">
+      <img src="https://komarev.com/ghpvc/?username=kaundalanshul&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" />
     </a>
     <a href="mailto:kaundalanshul725@gmail.com">
       <img src="https://img.shields.io/badge/Contact-kaundalanshul725%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -33,12 +33,44 @@ passions:
   - Exploring emerging technologies
 ```
 
-- 🔭 **I’m currently working on:** Exciting web & software projects
-- 🌱 **I’m currently learning:** Advanced system design, modern full-stack frameworks & cloud architecture
-- 👯 **I’m looking to collaborate on:** Open-source projects & creative ideas
-- 💬 **Ask me about:** JavaScript, React, Backend Development, Algorithms & Web Tech
+- 🔭 **I’m currently working on:** Full-stack web applications & Python projects
+- 🌱 **I’m currently learning:** Modern full-stack architecture, API integration & cloud deployment
+- 👯 **I’m looking to collaborate on:** Open-source projects & innovative software ideas
+- 💬 **Ask me about:** JavaScript, Python, React, Web Development & Backend Engineering
 - 📫 **How to reach me:** [kaundalanshul725@gmail.com](mailto:kaundalanshul725@gmail.com)
 - ⚡ **Fun fact:** I turn coffee ☕ and curiosity into code!
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaundalanshul/kaundalanshul/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaundalanshul/kaundalanshul/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/kaundalanshul/kaundalanshul/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+### 📦 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/kaundalanshul/grocery.store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaundalanshul&repo=grocery.store&theme=tokyonight&hide_border=true" alt="grocery.store" />
+  </a>
+  <a href="https://github.com/kaundalanshul/my-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaundalanshul&repo=my-project&theme=tokyonight&hide_border=true" alt="my-project" />
+  </a>
+</div>
+
+<br/>
+
+| Repository | Tech Stack | Description | Link |
+| :--- | :--- | :--- | :--- |
+| 🛒 **grocery.store** | `JavaScript` `HTML` `CSS` | Interactive grocery store e-commerce application | [View Repo ↗](https://github.com/kaundalanshul/grocery.store) |
+| 🌦️ **my-project** | `Python` | Real-time weather forecasting project | [View Repo ↗](https://github.com/kaundalanshul/my-project) |
 
 ---
 
@@ -49,8 +81,8 @@ passions:
 #### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -90,12 +122,12 @@ passions:
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaundalansh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Anshul's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaundalansh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaundalanshul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Anshul's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaundalanshul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaundalansh&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaundalanshul&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
@@ -113,7 +145,7 @@ passions:
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://github.com/kaundalansh" target="_blank">
+  <a href="https://github.com/kaundalanshul" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
@@ -122,5 +154,5 @@ passions:
 <br />
 
 <div align="center">
-  <sub>⭐️ Crafted with passion by <a href="https://github.com/kaundalansh">Anshul Kaundal</a></sub>
+  <sub>⭐️ Crafted with passion by <a href="https://github.com/kaundalanshul">Anshul Kaundal</a></sub>
 </div>
