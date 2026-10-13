@@ -1,0 +1,17 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editor files
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+*.swp
+*.swo
+
+# Node / Scratch
+node_modules/
+dist/
+*.log
